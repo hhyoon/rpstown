@@ -1,4 +1,7 @@
-rpsbuddy
+RPS Town
 ========
 
-RPS Buddy
+RPSTown is a Web app for Rock Paper Scissors.
+
+`RPS Town` is currently under development.
+Coming soon...
